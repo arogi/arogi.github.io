@@ -1,2 +1,2 @@
 # arogi.github.io
-github page initial
+Repo with the webpage and supporting documents
