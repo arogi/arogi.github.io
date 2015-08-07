@@ -251,6 +251,7 @@ a:focus {
 
 .content-section {
     padding-top: 100px;
+    padding-bottom: 50px;
 }
 
 .download-section {
@@ -273,11 +274,12 @@ a:focus {
 
 @media(min-width:767px) {
     .content-section {
-        padding-top: 200px;
+        padding-top: 100px;
+        padding-bottom: 50px;
     }
 
     .download-section {
-        padding: 100px 0;
+        padding: 50px 0;
     }
 
     #map {
