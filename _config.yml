@@ -8,7 +8,8 @@ description: "Arogi: Applied Research on Geographic Information. Geospatial Anal
 color:
   primary-dark: '#000000'
   primary-gray: '#404040'
-  links: '#219ab3'
+  # links: '#219ab3'
+  links: '#CCFFCC'
 
 # Footer settings
 footer: Arogi, Inc.
