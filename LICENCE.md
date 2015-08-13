@@ -1,4 +1,7 @@
-Apache License
+Webpage, Copyright 2015 Arogi, Inc. 
+
+License for Jekyll Template:  
+
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
 
