@@ -1,0 +1,1 @@
+Contributors, including assigned collaborators, should follow the [GitHub standard workflow](https://guides.github.com/introduction/flow/) (e.g., create a branch, make changes, and issue a pull request). Do not automatically approve your own pull requests. 
