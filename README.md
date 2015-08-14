@@ -5,4 +5,5 @@ Template used: The [Grayscale bootstrap theme ](http://ironsummitmedia.github.io
 
 The page uses [Jekyll with Github pages](https://help.github.com/articles/using-jekyll-with-pages/).
 
-Contributors, including assigned collaborators, should follow the [GitHub standard workflow](https://guides.github.com/introduction/flow/) (e.g., create a branch, make changes, and issue a pull request). 
+Links:
+[Contributing](CONTRIBUTING.md) & [License] (LICENCE.md)
