@@ -1,3 +1,5 @@
+<img src="arogigreenblue.png">  
+
 [Arogi.com](http://Arogi.com) static entry page
 =========================
 
