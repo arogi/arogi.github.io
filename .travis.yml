@@ -6,7 +6,7 @@ script: jekyll build && htmlproof ./_site
 # branch whitelist
 branches:
   only:
-  - gh-pages      # test the gh-pages branch
+  - gh-pages      # test the gh-pages branch.
 
 env:
   global:
