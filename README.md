@@ -1,9 +1,9 @@
 <b>Happy Holidays from</b><br />
 <img src="arogigreenblue.png">  
+---
 
-=========================
 [Arogi.com](http://Arogi.com) static entry page
-=========================
+
 
 Template used: The [Grayscale Bootstrap Theme ](http://ironsummitmedia.github.io/startbootstrap-grayscale/) for Jekyll.
 
