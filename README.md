@@ -1,4 +1,3 @@
-<b>Happy Holidays from</b><br />
 <img src="arogigreenblue.png">  
 ---
 
