@@ -1,4 +1,4 @@
-Webpage, Copyright 2015 Arogi, Inc. 
+Webpage, Copyright 2015-2017 Arogi, Inc. 
 
 License for Jekyll Template:  
 
