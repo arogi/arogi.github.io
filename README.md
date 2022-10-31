@@ -9,4 +9,4 @@ Template used: The [Grayscale Bootstrap Theme ](http://ironsummitmedia.github.io
 The page uses [Jekyll with GitHub Pages](https://help.github.com/articles/using-jekyll-with-pages/).
 
 Links:
-[Contributing](CONTRIBUTING.md) & [License] (LICENCE.md)
+[Contributing](CONTRIBUTING.md) & [License](LICENSE.md)
